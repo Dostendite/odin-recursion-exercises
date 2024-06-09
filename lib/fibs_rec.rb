@@ -13,9 +13,6 @@ def fibs_rec(n, ary=[0])
     end
 end
 
-print fibs_rec(1)
-puts
-print fibs_rec(6)
-puts
-print fibs_rec(8)
-puts
+print "#{fibs_rec(1)}\n"
+print "#{fibs_rec(3)}\n"
+print "#{fibs_rec(8)}\n"

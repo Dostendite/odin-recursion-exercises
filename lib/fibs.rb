@@ -1,7 +1,6 @@
 def fibs(n, ary=[])
     a = 0
     b = 1
-    c = a + b
 
     if n > 0
         if n > 1
@@ -15,7 +14,7 @@ def fibs(n, ary=[])
     (n-2).times do
         c = a + b
         a = b
-        b = c
+        b = cz
         ary << c
     end
     ary

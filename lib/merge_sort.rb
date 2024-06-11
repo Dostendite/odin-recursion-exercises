@@ -1,33 +1,3 @@
-# if only one number
-#     Quit
-# else
-#     Sort left half
-#     Sort right half
-#     Merge two halves
-
-# 1. Select the entire array
-# 2. Split the selected array (as evenly as possible)
-
-# 3. Select the left subarray
-# 3.2 Split the selected array (as evenly as possible)
-
-# 3. Select the left subarray
-# 3.2 Split the selected array (as evenly as possible)
-
-# 4. An array of length 1 cannot be split, ready for merge
-# 4. An array of length 1 cannot be split, ready for merge
-
-# 5. Merge selected arrays back together, in sorted order
-# 6. Select the minimum of the two values
-# 7. Add the selected value to the sorted array
-
-# 8. When one list becomes empty, 
-# copy all values from the remaining array into the sorted array
-
-# 9. Add the selected value to the sorted array
-# 10. Finished merging
-
-
 def merge_sort(ary)
     if ary.length == 1
         ary
@@ -56,7 +26,6 @@ def merge_sort(ary)
                 end
             end
         end
-
         result
     end
 end

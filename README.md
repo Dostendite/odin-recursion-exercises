@@ -1,14 +1,14 @@
 # Odin Ruby Recursion Exercises
 
-## fibs
+* fibs
 
 Takes a number as an argument and returns an array
 containing that many numbers.
 
-## fibs_rec
+* fibs_rec
 
 Accomplishes the same task, but in a recursive fashion.
 
-## merge_sort
+* merge_sort
 
 Implements the merge sort algorithm.

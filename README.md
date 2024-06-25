@@ -2,15 +2,15 @@
 
 ## Functions
 
-- fibs
+### Iterative Fibonacci Array
 
 Takes a number as an argument and returns an array
 containing that many numbers.
 
-- fibs_rec
+### Recursive Fibonaccy Array
 
 Accomplishes the same task, but in a recursive fashion.
 
-- merge_sort
+### Merge sort (Recursive)
 
 Implements the merge sort algorithm.

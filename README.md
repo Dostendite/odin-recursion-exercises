@@ -1,16 +1,14 @@
-# Odin Ruby Recursion Exercises
+## Recursion Exercises for TOP
 
-## Functions
+**1. Iterative Fibonacci Array**
 
-### Iterative Fibonacci Array
+_Takes a number as an argument and returns an array
+containing that many numbers._
 
-Takes a number as an argument and returns an array
-containing that many numbers.
+**2. Recursive Fibonaccy Array**
 
-### Recursive Fibonaccy Array
+_Accomplishes the same task, but in a recursive fashion._
 
-Accomplishes the same task, but in a recursive fashion.
+**3. Merge sort (Recursive)**
 
-### Merge sort (Recursive)
-
-Implements the merge sort algorithm.
+_Implements the merge sort algorithm._
